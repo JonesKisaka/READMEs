@@ -5,7 +5,7 @@
 
 |**Mark**    |**Purpose**          |Example                              |
 |------------|---------------------|-------------------------------------|
-|'*' or '_'  |Italicizes texts     |This "*italic*" becomes *italic*     |
-|'**' or '__'|Makes texts bold     |This "**bold**" yields **bold**      |
-|'~~'        |Strikes thorugh texts|This "~~strikes~~" yields ~~strikes~~|
+|'*' or '_'  |Italicizes texts     |This '*italic*' becomes *italic*     |
+|'**' or '__'|Makes texts bold     |This '**bold**' yields **bold**      |
+|'~~'        |Strikes thorugh texts|This '~~strikes~~' yields ~~strikes~~|
 
