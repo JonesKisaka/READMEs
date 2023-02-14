@@ -8,4 +8,5 @@
 |'*' or '_'  |Italicizes texts     |This '*italic*' becomes *italic*     |
 |'**' or '__'|Makes texts bold     |This '**bold**' yields **bold**      |
 |'~~'        |Strikes thorugh texts|This '~~strikes~~' yields ~~strikes~~|
-
+|'#'         |Gives Heading 1      |-------------------------------------|
+|'##'        |Gives Heading 2      |-------------------------------------|
